@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repository provides the code for a vision-language model (VLM) for predicting event-free survival (EFS) for pediatric gliomas from longitudinal MRI scans. Check out the preprint [here](INSERT_YOUR_PREPRINT_LINK_HERE).
+This repository provides the code for a vision-language model (VLM) for predicting event-free survival (EFS) for pediatric gliomas from longitudinal MRI scans. Check out the preprint [here](https://drive.google.com/file/d/1xuH-m5ubjTpajK_Q0eyU5Mxtv4v7XFQR/view?usp=sharing).
 
 ## Installation
 
